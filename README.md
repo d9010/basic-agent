@@ -23,6 +23,10 @@ The example uses LM Studio's OpenAI-compatible Chat Completions route:
 
 ## 2. Configure the model
 
+I test with this command on MacOS with Node.js installed.
+
+    LLM_MODEL="qwen/qwen3-coder-30b" node agent.js
+
 Set the model ID that LM Studio expects:
 
     export LLM_MODEL="your-loaded-model-id"
