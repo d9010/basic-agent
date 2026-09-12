@@ -1,0 +1,13 @@
+Project: Lighthouse Demo
+
+Launch target: Friday
+
+Current status:
+- Landing page: complete
+- Documentation: complete
+- Demo video: not finished
+- Release notes: complete
+
+Launch rule:
+The project is ready only when the landing page, documentation, demo video,
+and release notes are all complete.

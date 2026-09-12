@@ -1,0 +1,4 @@
+Ready: no
+Blocker: Demo video is not finished
+Next action: Wait for demo video completion
+Owner: Maya

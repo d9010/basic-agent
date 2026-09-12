@@ -1,0 +1,5 @@
+Team owners:
+- Maya owns the demo video.
+- Leo owns the release notes.
+- Nia owns the landing page.
+- Omar owns the documentation.
